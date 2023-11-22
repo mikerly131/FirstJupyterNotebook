@@ -9,14 +9,22 @@ There is a CSV in here, `museums.csv`
 
 Within in the new jupyter notebook answer the following questions.
 
-- Which city or state has the most museums per capita? 
-- Which city or state has the least museums per capita? 
+- Which city or state has the most museums per capita?
+- Skip per class session: We don't have demographic data
+- Which city or state has the least museums per capita?
+- Skip per class session: We don't have demographic data
 - How many zoos or aquariums exist in the United States?
+- 564
 - How many zoos?
+- 289
 - How many aquariums?
-- What museum or related organization had the highest revenue last year? 
+- 116
+- What museum or related organization had the highest revenue last year?
+- FRED LAWRENCE WHIPPLE OBSERVATORY (HARVARD)
 - How does the composition of museum types differ across the country?
+- 
 - For each type of museum, statistical measure on revenue and income?
+- See notebook
 
 ## Viz
 
